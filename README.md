@@ -12,6 +12,7 @@ This is a micro-ROS ESP32 program to:
 
 # SCHEMATIC
 
+![](docs/schematic.png)
 
 
   
