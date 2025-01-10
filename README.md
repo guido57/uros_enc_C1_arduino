@@ -8,6 +8,7 @@ This is a micro-ROS ESP32 program to:
 * publish /odom and the odom to base_link transformation on /tf
 * publish /wifi with SSID, BSSID and RSSI
 * publish /imu
+* publish /battery_state: voltage and current
 
 # SCHEMATIC
 
