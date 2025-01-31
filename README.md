@@ -9,6 +9,7 @@ This is a micro-ROS ESP32 program to:
 * publish /wifi with SSID, BSSID and RSSI
 * publish /imu
 * publish /battery_state: voltage and current
+* go to the docking/charging station when the battery is low
 
 # SCHEMATIC
 
